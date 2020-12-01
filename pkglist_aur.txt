@@ -1,0 +1,7 @@
+all-repository-fonts
+nerd-fonts-fira-code
+picom-rounded-corners
+polybar
+slack-desktop
+yay
+zoom
